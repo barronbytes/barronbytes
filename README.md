@@ -11,14 +11,26 @@ Leveraging code within EdTech tools accelerated my teaching career and fueled my
 * Sharing [updates on LinkedIn](https://www.linkedin.com/in/barronbytes/)
 * Making ["tweets" on X](https://x.com/barronbytes)
 
-<a href="https://www.linkedin.com/in/barronbytes/" title="LinkedIn"><img alt="LinkedIn" style="padding-right:10px;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"></a>
-<a href="https://x.com/barronbytes" title="X"><img alt="X" style="padding-right:10px;" src="https://img.shields.io/badge/Twitter-dedede?style=for-the-badge&logo=x&labelColor=black"></a>
+<a href="https://www.linkedin.com/in/barronbytes/" title="LinkedIn"><img style="padding-right:10px;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn"></a>
+<a href="https://x.com/barronbytes" title="X"><img style="padding-right:10px;" src="https://img.shields.io/badge/Twitter-dedede?style=for-the-badge&logo=x&labelColor=black" alt="X"></a>
 
 ## 💻 Languages and Tools
 
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<table>
+    <tr>
+        <td style="vertical-align:middle;"><strong>Frontend</strong></td>
+        <td><img width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5" title="HTML"><img width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3" title="CSS"></td>
+    <tr>
+    <tr>
+        <td style="vertical-align:middle;"><strong>Backend</strong></td>
+        <td><img width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="Python" title="Python"></td>
+    <tr>
+    <tr>
+        <td style="vertical-align:middle;"><strong>Cloud</strong></td>
+        <td><img width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS"></td>
+    <tr>
+    <tr style="border-bottom: 1px solid;">
+        <td style="vertical-align:middle;"><strong>Tools</strong></td>
+        <td><img width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux"><img width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git"></td>
+    <tr>
+</table>
