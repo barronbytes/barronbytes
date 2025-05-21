@@ -16,25 +16,6 @@ Leveraging code within EdTech tools accelerated my teaching career and fueled my
 
 ## 💻 Languages and Tools
 
-<table>
-    <tr>
-        <td style="vertical-align:middle;"><strong>Frontend</strong></td>
-        <td><img width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5" title="HTML"><img width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3" title="CSS"></td>
-    <tr>
-    <tr>
-        <td style="vertical-align:middle;"><strong>Backend</strong></td>
-        <td><img width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" alt="Python" title="Python"></td>
-    <tr>
-    <tr>
-        <td style="vertical-align:middle;"><strong>Cloud</strong></td>
-        <td><img width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS"></td>
-    <tr>
-    <tr>
-        <td style="vertical-align:middle;"><strong>Tools</strong></td>
-        <td><img width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux"><img width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git"></td>
-    <tr>
-</table>
-
 | **Frontend** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="30"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="30"> |
 |----------|----------|
 | **Backend**  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="30"> |
