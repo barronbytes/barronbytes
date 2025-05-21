@@ -21,17 +21,17 @@ Leveraging code within EdTech tools accelerated my teaching career and fueled my
 
 ## 💼 Work Experience
 
-**DevSecOps Fellow** | 05/25 to Present
+**DevSecOps Fellow** | 05/25 to Present<br>
 **ProgramEarth** | Fellowship (remote)
 * In-progress
 
-**Math Teacher** | 08/22 to Present
+**Math Teacher** | 08/22 to Present<br>
 **Fulton County Schools** | Full-time (in-person)
 * Led print-to-digital curriculum conversion for **230+** students using Desmos Scripting Language, boosting completion rates **8x** and reducing grading timelines by **70%** through automation scripts.
 
 ## 📈 Stakeholder Projects
 
-**Software Developer** | 05/25 to Present
+**Software Developer** | 05/25 to Present<br>
 **Catchafire** | Volunteer Contractor (remote)
 * In-progress
 
