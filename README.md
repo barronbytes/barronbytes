@@ -29,7 +29,7 @@ Leveraging code within EdTech tools accelerated my teaching career and fueled my
 
 ## 📈 Stakeholder Projects
 
-**Software Developer** @ Catchafire | Volunteer Contractor (remote) | 05/25 to Present
+**Fullstack Developer** @ Catchafire | Volunteer Contractor (remote) | 05/25 to Present
 * In-progress
 
 ## <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub"> Personal Projects
