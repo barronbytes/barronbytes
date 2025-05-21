@@ -32,6 +32,10 @@ Leveraging code within EdTech tools accelerated my teaching career and fueled my
 **Software Developer** @ Catchafire | Volunteer Contractor (remote) | 05/25 to Present
 * In-progress
 
+## <img width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub"> Personal Projects
+
+In-progress
+
 ## 🏅 Leadership & Affiliations
 
 * **Code Reviews (Mentor):** [Refcode](https://refcode.org/) (2024)
