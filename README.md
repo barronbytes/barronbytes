@@ -21,5 +21,4 @@ Leveraging code within EdTech tools accelerated my teaching career and fueled my
 
 ## 🎓 Education
 
-**The University of Georgia**
-BBA in Finance
+**The University of Georgia** — BBA in Finance
