@@ -8,8 +8,8 @@ Leveraging code within EdTech tools accelerated my teaching career and fueled my
 
 **Find Me Around the Web 🌎:**
 
-* Sharing updates on [LinkedIn](https://www.linkedin.com/in/barronbytes/)
-* Making _"tweets"_ on [X](https://x.com/barronbytes)
+* Sharing [updates on LinkedIn](https://www.linkedin.com/in/barronbytes/)
+* Making ["tweets" on X](https://x.com/barronbytes)
 
 ## 💻 Languages and Tools
 
