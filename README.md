@@ -8,11 +8,8 @@ Leveraging code within EdTech tools accelerated my teaching career and fueled my
 
 **Let's Connect and have a Chat! 💬**
 
-* Sharing [updates on LinkedIn](https://www.linkedin.com/in/barronbytes/)
-* Making ["tweets" on X](https://x.com/barronbytes)
-
-<a href="https://www.linkedin.com/in/barronbytes/" title="LinkedIn"><img style="padding-right:10px;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn"></a>
-<a href="https://x.com/barronbytes" title="X"><img style="padding-right:10px;" src="https://img.shields.io/badge/Twitter-dedede?style=for-the-badge&logo=x&labelColor=black" alt="X"></a>
+<a href="https://www.linkedin.com/in/barronbytes/" title="Updates on LinkedIn"><img style="padding-right:10px;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn"></a>
+<a href="https://x.com/barronbytes" title="Posts on X"><img style="padding-right:10px;" src="https://img.shields.io/badge/Twitter-dedede?style=for-the-badge&logo=x&labelColor=black" alt="X"></a>
 
 ## 💻 Languages and Tools
 
@@ -21,3 +18,8 @@ Leveraging code within EdTech tools accelerated my teaching career and fueled my
 | **Backend**  | <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" title="Python"> |
 | **Cloud**    | <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS"> |
 | **Tools**    | <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux"> <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"> |
+
+## 🎓 Education
+
+**The University of Georgia**
+BBA in Finance
