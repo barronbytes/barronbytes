@@ -35,7 +35,7 @@ Leveraging code within EdTech tools accelerated my teaching career and fueled my
 ## 🏅 Leadership & Affiliations
 
 * **Code Reviews (Mentor):** [Refcode](https://refcode.org/)
-* **Fellowships (Completed):** [AmeriCorps](https://www.americorps.gov/) (2017), [Teach for America](https://www.teachforamerica.org/) (2024), [The Knowledge House](https://www.theknowledgehouse.org/) (2025), [ProgramEarth (In-progress)](https://www.programearth.org/)
+* **Fellowships (Completed):** [AmeriCorps](https://www.americorps.gov/) (2017), [Teach for America](https://www.teachforamerica.org/) (2024), [The Knowledge House](https://www.theknowledgehouse.org/) (2025), [ProgramEarth](https://www.programearth.org/) (In-progress)
 
 ## 🎓 Education
 
