@@ -6,7 +6,13 @@
 
 Leveraging code within EdTech tools accelerated my teaching career and fueled my passion for software development. My hands-on journey so far includes building no-code and backend solutions, with upcoming collaborative projects in data science and open-source. Tech I work with: Python, Pandas, Matplotlib.
 
-**Let's Connect and have a Chat! 💬**
+**I'm always working on something to fuel growth.** 👨‍💻
+
+* **ProgramEarth:** Contributing to open-source projects
+* **Catchafire:** Volunteering technical skills to support non-profit organizations
+* **Classroom:** Developing a math flashcard app for classroom rollout (Fall 2025)
+
+**Let's Connect and have a Chat!** 💬
 
 <a href="https://www.linkedin.com/in/barronbytes/" title="Updates on LinkedIn"><img style="padding-right:10px;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn"></a>
 <a href="https://x.com/barronbytes" title="Posts on X"><img style="padding-right:10px;" src="https://img.shields.io/badge/Twitter-dedede?style=for-the-badge&logo=x&labelColor=black" alt="X"></a>
