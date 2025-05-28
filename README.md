@@ -15,7 +15,7 @@ Leveraging code within EdTech tools accelerated my teaching career and fueled my
 **Let's Connect and have a Chat!** 💬
 
 <a href="https://www.linkedin.com/in/barronbytes/" title="Updates on LinkedIn"><img style="padding-right:10px;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" alt="LinkedIn"></a>
-<a href="https://x.com/barronbytes" title="Posts on X"><img style="padding-right:10px;" src="https://img.shields.io/badge/Twitter-dedede?style=for-the-badge&logo=x&labelColor=black" alt="X"></a>
+<a href="https://x.com/barronbytes" title="Posts on X"><img style="padding-right:10px;" src="https://img.shields.io/badge/X/Twitter-dedede?style=for-the-badge&logo=x&labelColor=black" alt="X"></a>
 
 ## 💻 Languages and Tools
 
