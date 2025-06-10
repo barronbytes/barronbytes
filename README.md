@@ -47,7 +47,7 @@ In-progress
 ## 🏅 Leadership & Affiliations
 
 * **Code Reviews (Mentor):** [Refcode](https://refcode.org/) (2024)
-* **Fellowships (Completed):** [AmeriCorps](https://www.americorps.gov/) (2017), [Teach for America](https://www.teachforamerica.org/) (2024), [The Knowledge House](https://www.theknowledgehouse.org/) (2025), [ProgramEarth](https://www.programearth.org/) (In-progress)
+* **Fellowships (Completed):** [AmeriCorps](https://www.americorps.gov/) (2017), [Teach for America](https://www.teachforamerica.org/) (2024), [ProgramEarth](https://www.programearth.org/) (In-progress)
 
 ## 🎓 Education
 
