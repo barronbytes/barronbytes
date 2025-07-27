@@ -9,8 +9,7 @@ Leveraging code within EdTech tools accelerated my teaching career and fueled my
 **I'm always working on something to fuel growth.** 👨‍💻
 
 * **ProgramEarth:** Contributing to open-source projects
-* **Catchafire:** Volunteering technical skills to support non-profit organizations
-* **Classroom:** Developing a math flashcard app for classroom rollout (Fall 2025)
+* **Classroom:** Developing [Teacher Scripts](https://github.com/barronbytes/teacher-scripts), an EdTech app for teachers
 
 **Let's Connect and have a Chat!** 💬
 
@@ -37,7 +36,7 @@ Leveraging code within EdTech tools accelerated my teaching career and fueled my
 
 ## 📈 Stakeholder Projects
 
-**Full Stack Developer** @ Catchafire | Volunteer Contractor (remote) | 05/25 to Present
+**Full Stack Developer** @ Catchafire | Volunteer Contractor (remote) | Upcoming
 * In-progress
 
 ## 🧑 Personal Projects
@@ -47,7 +46,7 @@ In-progress
 ## 🏅 Leadership & Affiliations
 
 * **Code Reviews (Mentor):** [Refcode](https://refcode.org/) (2024)
-* **Fellowships (Completed):** [AmeriCorps](https://www.americorps.gov/) (2017), [Teach for America](https://www.teachforamerica.org/) (2024), [ProgramEarth](https://www.programearth.org/) (In-progress)
+* **Fellowships (Completed):** [AmeriCorps](https://www.americorps.gov/) (2017), [Teach for America](https://www.teachforamerica.org/) (2024), [ProgramEarth](https://www.programearth.org/) (2025)
 
 ## 🎓 Education
 
