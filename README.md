@@ -24,24 +24,22 @@ Leveraging code within EdTech tools accelerated my teaching career and fueled my
 | **Cloud**    | <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS"> |
 | **Tools**    | <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux"> <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"> |
 
-## 💼 Work Experience
+## ⚙️ Open-Source Experience
 
-**DevSecOps Fellow** @ ProgramEarth | Fellowship (remote) | 05/25 to Present
-* In-progress
+**Full Stack Fellow** @ ProgramEarth | Fellowship (remote) | 05/25 to Present
+* Used JavaScript and TypeScript to build SQL models, migrations, and CSV seed pipelines with API-ready structures, unblocking a 3-month backend team delay on a GIS visualization project in 2 weeks.
+
+## 🧑 Personal Projects
+
+**Teacher Scripts** | HTML, CSS, JavaScript
+* Implemented reusable JavaScript components and responsive webpage navigation
+
+## 💼 Work Experience
 
 **Mathematics Teacher** @ Fulton County Schools | Full-time (in-person) | 08/22 to Present
 * Led print-to-digital curriculum overhaul for **230+** students using Desmos Scripting Language, boosting completion rates **8x** and reducing grading timelines by **70%** through automation scripts.
 
 👉 To view more [visit my LinkedIn work history!](https://www.linkedin.com/in/barronbytes/) 📝
-
-## 📈 Stakeholder Projects
-
-**Full Stack Developer** @ Catchafire | Volunteer Contractor (remote) | Upcoming
-* In-progress
-
-## 🧑 Personal Projects
-
-In-progress
 
 ## 🏅 Leadership & Affiliations
 
@@ -50,4 +48,4 @@ In-progress
 
 ## 🎓 Education
 
-**The University of Georgia** — BBA in Finance
+BBA in Finance from The University of Georgia
