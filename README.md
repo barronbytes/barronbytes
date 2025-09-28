@@ -32,7 +32,7 @@ Leveraging code within EdTech tools accelerated my teaching career and fueled my
 ## 🧑 Personal Projects
 
 **Teacher Scripts** | HTML, CSS, JavaScript
-* Implemented reusable JavaScript components and responsive webpage navigation
+* Implemented reusable JavaScript components and responsive webpage navigation.
 
 ## 💼 Work Experience
 
