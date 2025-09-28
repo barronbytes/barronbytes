@@ -29,7 +29,7 @@ Leveraging code within EdTech tools accelerated my teaching career and fueled my
 **Full Stack Fellow** @ ProgramEarth | Fellowship (remote) | 05/25 to Present
 * Used JavaScript and TypeScript to build SQL models, migrations, and CSV seed pipelines with API-ready structures, unblocking a 3-month backend team delay on a GIS visualization project in 2 weeks.
 
-## 🧑 Personal Projects
+## 🧑 Project Experience
 
 **Teacher Scripts** | HTML, CSS, JavaScript
 * Implemented reusable JavaScript components and responsive webpage navigation.
