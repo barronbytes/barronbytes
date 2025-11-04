@@ -4,12 +4,12 @@
 
 ## 🧠 EdTech Problem Solver
 
-Leveraging code within EdTech tools accelerated my teaching career and fueled my passion for software development. My hands-on journey so far includes building no-code and backend solutions, with upcoming collaborative projects in data science and open-source. Tech I work with: Python, Pandas, Matplotlib.
+Leveraging code within EdTech tools accelerated my teaching career and fueled my passion for software development. My hands-on journey so far includes full stack contributions to open-source projects. Tech I work with: JavaScript, Python, Docker.
 
 **I'm always working on something to fuel growth.** 👨‍💻
 
-* **ProgramEarth:** Contributing to open-source projects
-* **Classroom:** Developing [Teacher Scripts](https://github.com/barronbytes/teacher-scripts), an EdTech app for teachers
+* **Open-Source:** Contributing to **ProgramEarth**
+* **Projects:** Developing [Teacher Scripts](https://github.com/barronbytes/teacher-scripts), an EdTech app for teachers
 
 **Let's Connect and have a Chat!** 💬
 
@@ -22,7 +22,7 @@ Leveraging code within EdTech tools accelerated my teaching career and fueled my
 |----------|----------|
 | **Backend**  | <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" title="Python"> |
 | **Cloud**    | <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS"> |
-| **Tools**    | <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux"> <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"> |
+| **Tools**    | <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux"> <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"> <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"> |
 
 ## ⚙️ Open-Source Experience
 
@@ -31,7 +31,7 @@ Leveraging code within EdTech tools accelerated my teaching career and fueled my
 
 ## 🧑 Project Experience
 
-**Teacher Scripts** | HTML, CSS, JavaScript
+**Teacher Scripts** | HTML, CSS, JavaScript | In-progress
 * Implemented reusable JavaScript components and responsive webpage navigation.
 
 ## 💼 Work Experience
@@ -43,7 +43,7 @@ Leveraging code within EdTech tools accelerated my teaching career and fueled my
 
 ## 🏅 Leadership & Affiliations
 
-* **Code Reviews (Mentor):** [Refcode](https://refcode.org/) (2024)
+* **Bootcamp Volunteer (Mentor):** [Refcode](https://refcode.org/) (2024)
 * **Fellowships (Completed):** [AmeriCorps](https://www.americorps.gov/) (2017), [Teach for America](https://www.teachforamerica.org/) (2024), [ProgramEarth](https://www.programearth.org/) (2025)
 
 ## 🎓 Education
