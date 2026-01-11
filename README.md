@@ -48,7 +48,7 @@ Teaching sparked my path into tech when I discovered the benefits of using a scr
 
 ## 🎓 Education
 
-BBA in Finance from The University of Georgia
+**BBA in Finance** from The University of Georgia | Graduated (Cum Laude)
 
 **Certifications:**
-- AWS Certified Clould Practitioner [(Exp: 11/27) 🔗](https://www.credly.com/badges/8084c504-c499-42db-af77-ac20bb07733e/public_url)
+- AWS Certified Clould Practitioner [(Exp: 11/27)](https://www.credly.com/badges/8084c504-c499-42db-af77-ac20bb07733e/public_url) 🔗
