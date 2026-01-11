@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jonathan!
 
-![Browse my LinkedIn profile. (link below)](assets/photo_banner_linkedin.PNG)
+![Browse my LinkedIn profile. (link below)](public/photo_banner_linkedin.png)
 
 ## 🧠 EdTech Problem Solver
 
