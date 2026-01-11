@@ -2,14 +2,14 @@
 
 ![Browse my LinkedIn profile. (link below)](public/photo_banner_linkedin.png)
 
-## 🧠 EdTech Problem Solver
+## 🚀 Software Developer
 
-Leveraging code within EdTech tools accelerated my teaching career and fueled my passion for software development. My hands-on journey so far includes full stack contributions to open-source projects. Tech I work with: JavaScript, Python, Docker.
+Teaching sparked my path into tech when I discovered the benefits of using a scripting language within an EdTech platform to automate workflows. I am now a full stack open-source contributor at ProgramEarth (PE), building tech for the environment, and a backend intern at SCIP, developing recruitment & e-commerce platforms. My passion for tech is only rivaled by chess. I’d welcome a game. ♟️🤝
 
 **I'm always working on something to fuel growth.** 👨‍💻
 
-* **Open-Source:** Contributing to **ProgramEarth**
-* **Projects:** Developing [Teacher Scripts](https://github.com/barronbytes/teacher-scripts), an EdTech app for teachers
+* **Current Work:** Full Stack Fellow @ ProgramEarth | Backend Developer Intern @ SCIP 
+* **Learning:** Preparing for AWS Cerfified AI Practioner Exam
 
 **Let's Connect and have a Chat!** 💬
 
@@ -18,7 +18,7 @@ Leveraging code within EdTech tools accelerated my teaching career and fueled my
 
 ## 💻 Languages and Tools
 
-| **Frontend** | <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" title="HTML"> <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" title="CSS"> |
+| **Frontend** | <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" title="HTML"> <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" title="CSS"> <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript"> <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript"> |
 |:---------|:---------|
 | **Backend**  | <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" title="Python"> |
 | **Cloud**    | <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS"> |
@@ -27,7 +27,7 @@ Leveraging code within EdTech tools accelerated my teaching career and fueled my
 ## ⚙️ Open-Source Experience
 
 **Full Stack Fellow** @ ProgramEarth | Fellowship (remote) | 05/25 to Present
-* Used JavaScript and TypeScript to build SQL models, migrations, and CSV seed pipelines with API-ready structures, unblocking a 3-month backend team delay on a GIS visualization project in 2 weeks.
+* Led a frontend redesign migrating from Vue to React, adopting Material UI and reusable components to reduce CSS by **60%**, and integrating Docker to standardize local development.
 
 ## 🧑 Project Experience
 
@@ -49,3 +49,6 @@ Leveraging code within EdTech tools accelerated my teaching career and fueled my
 ## 🎓 Education
 
 BBA in Finance from The University of Georgia
+
+**Certifications:**
+- AWS Certified Clould Practitioner [(Exp: 11/27) 🔗](https://www.credly.com/badges/8084c504-c499-42db-af77-ac20bb07733e/public_url)
