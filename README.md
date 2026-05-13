@@ -25,15 +25,15 @@ Developing **SeeMyPills** as an end-to-end project. Web+Mobile app MVP will allo
 
 ## 💼 Work Experience
 
-**Backend Developer (Python)** | Architecting Zero-to-MVP APIs for Diverse Recruitement Platform
+**Backend Developer (Python)** | Architecting Zero-to-MVP APIs for Diverse Recruitement Platform<br>
 @SCIP | Internship (remote) | 01/26 to Present
 * Built backend foundation for a talent platform to connect 50+ students and 5+ hiring partners by developing a layered architecture RESTful API with Python/FastAPI/PostgreSQL, implementing RBAC via in-place JWT, and delivering 40% of Git/GitHub commits in a 4-member backend team.
 
-**Frontend Developer** | Establishing A11y Standards for Environmental Platform
+**Frontend Developer** | Establishing A11y Standards for Environmental Platform<br>
 @ProgramEarth | Internship (remote) | 08/25 to 12/15
 * Reduced HTML and CSS by 60% and improved WCAG accessibility to a 98+ Lighthouse score for a non-semantic land conservation GIS tool with a modular design system.
 
-**Mathematics Teacher** | Scaling Educational Outcomes with EdTech for 800+ Students
+**Mathematics Teacher** | Scaling Educational Outcomes with EdTech for 800+ Students<br>
 @ Fulton County Schools | Full-time (Atlanta, GA) | 08/22 to 12/25
 * Led print-to-digital curriculum overhaul for 230+ daily students using EdTech tool scripting language, boosting completion rates 8x and reducing grading timelines by 70% through automation scripts.
 
