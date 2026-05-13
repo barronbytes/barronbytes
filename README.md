@@ -29,7 +29,7 @@ Developing **SeeMyPills** as an end-to-end project. Web+Mobile app MVP will allo
 @SCIP | Internship (remote) | 01/26 to Present
 * Built backend foundation for a talent platform to connect 50+ students and 5+ hiring partners by developing a layered architecture RESTful API with Python/FastAPI/PostgreSQL, implementing RBAC via in-place JWT, and delivering 40% of Git/GitHub commits in a 4-member backend team.
 
-**Frontend Developer** | Establishing A11y Standards for Environmental Platform<br>
+**Frontend Developer (TypeScript)** | Establishing A11y Standards for Environmental Platform<br>
 @ProgramEarth | Internship (remote) | 08/25 to 12/15
 * Reduced HTML and CSS by 60% and improved WCAG accessibility to a 98+ Lighthouse score for a non-semantic land conservation GIS tool with a modular design system.
 
